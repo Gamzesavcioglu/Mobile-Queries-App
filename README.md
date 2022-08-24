@@ -3,7 +3,7 @@
 1. In the yellow.json file used, the maximum number of passengers and 5 days of transportation were found
 
 
-![image](https://user-images.githubusercontent.com/46785635/186414809-da2657ce-32a6-4e59-8feb-3ee781810200.png width="200" height="590")
+![image](https://user-images.githubusercontent.com/46785635/186414809-da2657ce-32a6-4e59-8feb-3ee781810200.png)
 
 
 2. The 5 journeys with the least distance traveled between the two entered days are listed.
