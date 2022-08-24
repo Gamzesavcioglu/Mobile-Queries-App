@@ -15,4 +15,6 @@
 
 ![image](https://user-images.githubusercontent.com/46785635/186415148-b25dd7db-9a42-44d2-bd68-ffa0d08ad29e.png)
 
-FLOW DIAGRAM
+FLOWCHARTS
+
+![flow](https://user-images.githubusercontent.com/46785635/186417805-b27a8125-81f2-4301-8b38-2bff34a12df5.jpg)
